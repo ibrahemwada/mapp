@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+zxing-cpp
+numpy
+av
+streamlit-autorefresh
